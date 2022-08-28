@@ -1,2 +1,2 @@
 # ALX-P1
-investigating a dataset using Pandas : first project of data analyst nanodegree.
+##### Investigating a dataset using Pandas,numpy and matplotlib : first project of udacity data analyst nanodegree.
